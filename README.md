@@ -1,4 +1,4 @@
-![image](https://github.com/freinddeepti/StopWatch_WebApplication_WD_Task2/assets/142092029/d7cc9f89-461e-4a26-9a2c-0b1f54544591)# StopWatch_WebApplication_WD_Task2
+# StopWatch_WebApplication_WD_Task2
 The device is used when time periods need to be measured precisely and with minimum complications. Laboratory experiments and sports events like sprints are classic examples of its application.
 Stopwatch watch is like a watch that shows us the time from zero. Stopwatch is mostly used in the competition or personal use to know that time we took to do some activities.
 
